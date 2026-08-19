@@ -1,6 +1,6 @@
 {
   "Base.3030Box": "Kiste mit .30-30 Patronen",
-  "Base.3030Bullets": ".30-30 Patronen",
+  "Base.3030Bullets": ".30-30 Patrone",
   "Base.3030Carton": "Karton mit .30-30 Patronen",
   "Base.308Box": "Kiste mit 7.62x51mm Patronen",
   "Base.308Bullets": "7.62x51mm Patrone",
@@ -51,9 +51,9 @@
   "Base.Rifle_CapGun": "Spielzeuggewehr",
   "Base.Shotgun": "Remington Modell 870",
   "Base.ShotgunSawnoff": "Abgesägte Remington Modell 870",
-  "Base.ShotgunShells": "12 Gauge Schrotpartene",
-  "Base.ShotgunShellsBox": "Kiste mit 12 Gauge Schrotpatronen",
-  "Base.ShotgunShellsCarton": "Karton mit 12 Gauge Schrotpatronen",
-  "Base.TrapperCarbine": "Marlin Modell 45 Camp Karabiner",
+  "Base.ShotgunShells": "12-Gauge-Schrotpatrone",
+  "Base.ShotgunShellsBox": "Kiste mit 12-Gauge-Schrotpatronen",
+  "Base.ShotgunShellsCarton": "Karton mit 12-Gauge-Schrotpatronen",
+  "Base.TrapperCarbine": "Marlin Modell 45 Camp-Karabiner",
   "Base.VarmintRifle": "Remington Modell 700"
 }
